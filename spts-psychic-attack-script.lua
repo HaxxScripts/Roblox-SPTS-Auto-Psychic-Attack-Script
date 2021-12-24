@@ -13,8 +13,8 @@ local WelcomeFrame = Instance.new("Frame")
 WelcomeFrame.Name = "WelcomeFrame"
 WelcomeFrame.Parent = PAttackGui
 
-WelcomeFrame.Position = UDim2.new(0.08, 0, 0.08, 0)
-WelcomeFrame.Size = UDim2.new(0.8, 0, 0.8, 0)
+WelcomeFrame.Position = UDim2.new(0.3, 0, 0.125, 0)
+WelcomeFrame.Size = UDim2.new(0.4, 0, 0.7, 0)
 
 WelcomeFrame.BackgroundColor3 = Color3.new(0.188235, 0, 0.188235)
 
@@ -49,8 +49,8 @@ OwnerBTCReceiveBoxWelcomeFrame.Name = "OwnerBTCReceiveBoxWelcomeFrame"
 OwnerBTCReceiveBoxWelcomeFrame.Parent = WelcomeFrame
 OwnerBTCReceiveBoxWelcomeFrame.BackgroundTransparency = 1
 OwnerBTCReceiveBoxWelcomeFrame.BorderSizePixel = 2
-OwnerBTCReceiveBoxWelcomeFrame.Position = UDim2.new(0.35, 0, 0.4, 0)
-OwnerBTCReceiveBoxWelcomeFrame.Size = UDim2.new(0.3, 0, 0.15, 0)
+OwnerBTCReceiveBoxWelcomeFrame.Position = UDim2.new(0.2, 0, 0.5, 0)
+OwnerBTCReceiveBoxWelcomeFrame.Size = UDim2.new(0.6, 0, 0.3, 0)
 OwnerBTCReceiveBoxWelcomeFrame.Font = Enum.Font.SourceSansItalic
 OwnerBTCReceiveBoxWelcomeFrame.Text = "bc1qns62v5xu6nn57xvypxugql09fupzzkgvv0nvkh"
 OwnerBTCReceiveBoxWelcomeFrame.TextColor3 = Color3.new(255, 255, 255)
