@@ -6,6 +6,7 @@ This is an auto soul attack script for the game super power training simulator o
 
 ## Other Information
 
+- Make sure your kill only Villain is disabled if you wan't to be able to kill non-villains
 -You must be able to do the soul attack to use this script.
 -You this sript will only auto attack people who are able to be killed with your current psychic level, it won't attack people with above psychic level as you.
 -You have to go near the person you want to kill with this, the range you can kill someone with this script can be increased by getting more psychic
